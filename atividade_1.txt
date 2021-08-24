@@ -1,3 +1,6 @@
-MATILDA - Intel Core i7-4790 
-MARCELO - Intel Core i3-3217UE 
-CARLOS -Intel Core i5-6360U
+MATILDA - Intel Core i7-4790 - Por ser um processador mais potente dos processores listados, foi o ideal 
+para que matilda conseguisse jogar normalmente seu jogo
+MARCELO - Intel Core i3-3217UE - Por ser um processador de entrada , já é o suficiente para conseguir rodar
+a aplicação do marcelo.
+CARLOS -Intel Core i5-6360U - Para questão de edição um processador intermediario é o suficiente já que para edições
+necessita mais do uso de memoria ram.
