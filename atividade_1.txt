@@ -1,0 +1,3 @@
+MATILDA - Intel Core i7-4790 
+MARCELO - Intel Core i3-3217UE 
+CARLOS -Intel Core i5-6360U
